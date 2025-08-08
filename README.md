@@ -7,5 +7,5 @@ REST API used to manage list of users by NODE JS and EXPRESS:
 (4) POST /api/users - Create new user
 (5) PATCH /api/users/:id - Edit the user with ID id
 (6) DELETE /api/users/:id - Delete the user with ID id
-**Node Modules folder is not uploading due to some issues**
+(----**Node Modules folder is not uploading due to some issues**----)
 ----> PATCH,POST and DELETE functions are implemented by POSTMAN SOFTWARE and GET functions are implemented by browser itself.
